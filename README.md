@@ -8,6 +8,6 @@ Cara kerjanya adalah:
 -Hasil penjumlahan disimpan dalam matriks C.
 -Program menampilkan matriks hasil (A+B) ke layar.
 
-![Uploading WhatsApp Image 2025-11-04 at 07.51.04_fdb3c5a6.jpg…]()
+![WhatsApp Image 2025-11-04 at 07 51 04_fdb3c5a6](https://github.com/user-attachments/assets/1707b665-e2f8-4f28-8f8e-a3272c653fa4)
 
 
